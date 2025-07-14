@@ -1,39 +1,51 @@
-👨‍🎓 Aluno: Leandro Filipy de Lima
-📚 Turma: MIDS 77
-💻 A Tecnologia na Sala de Aula
-📖 Fundamentos da Comunicação
-🎯 Tema
-Uso da tecnologia na sala de aula
+# 💻 A Tecnologia na Sala de Aula
 
-📝 Tese
-A contribuição da tecnologia vem auxiliando os alunos e dando acesso a conhecimentos que eles não teriam sem tecnologia. 🚀📲
+**Aluno:** Leandro Filipy de Lima  
+**Turma:** MIDS 77  
+**Disciplina:** Fundamentos da Comunicação  
 
-📚 Desenvolvimento
-A implementação da tecnologia nas salas de aula mudou a forma como o aprendizado é transmitido e compartilhado, trazendo várias consequências positivas e negativas.
+---
 
-Segundo o VII Estudo Global, realizado com o Ministério da Educação, 80% dos professores afirmam que a tecnologia aumenta a motivação dos alunos, tornando o conteúdo mais dinâmico e didático — facilitando o aprendizado. 🎓✨
+## 📚 Tema  
+**Uso da tecnologia na sala de aula**
 
-Dessa forma, a tecnologia tem sido amplamente utilizada e se mostra muito benéfica, pois os alunos não dependem apenas de livros ou jornais para obter conhecimento.
+---
 
-Professores que dominam o uso da tecnologia conseguem impulsionar o aprendizado, tornando-a uma ferramenta poderosa. 💡🎯
+## 🎯 Tese  
+A contribuição da tecnologia vem auxiliando os alunos e dando acesso a conhecimentos que eles não teriam sem ela.
 
-✅ Vantagens da tecnologia na sala de aula
-Aulas mais dinâmicas e interativas 📱🖥️
+---
 
-Acesso facilitado ao conhecimento, tudo na palma da mão do aluno 📲📚
+## 📖 Desenvolvimento
 
-Uso de recursos educacionais, como sites e apps (ex: Kahoot! — jogos de perguntas que engajam os alunos) 🎮❓
+A tecnologia transformou a forma como o aprendizado é transmitido e compartilhado, trazendo consequências positivas e negativas.
 
-Ampliação das possibilidades de ensino e aprendizagem 🌟
+Segundo o **VII Estudo Global** (Ministério da Educação), **80% dos professores afirmam que a tecnologia aumenta a motivação dos alunos**, tornando as aulas mais dinâmicas e didáticas, facilitando o aprendizado.  
 
-⚠️ Desvantagens e desafios
-Dependência excessiva da tecnologia, causando problemas quando não há acesso ⚡🚫
+Professores que sabem usar a tecnologia a seu favor conseguem potencializar o aprendizado dos alunos, tornando a tecnologia uma ferramenta poderosa.  
 
-Distração causada por notificações do celular 📵📱
+### ✅ Vantagens da tecnologia na sala de aula
 
-Possível queda no desempenho e desindividualização do aluno 😓📉
+- Aulas mais dinâmicas e interativas  
+- Acesso rápido e fácil ao conhecimento  
+- Recursos educacionais diversificados, como sites e aplicativos (exemplo: Kahoot!)  
+- Maior engajamento e motivação dos alunos  
 
-🔮 Conclusão
-Mesmo com alguns desafios, a tecnologia é uma ferramenta essencial na educação, que coloca uma verdadeira biblioteca na palma da mão do aluno — permitindo acesso rápido e prático a qualquer assunto! 📚✨
+### ⚠️ Desvantagens e desafios
 
-Por isso, esperamos que a tecnologia continue avançando nas salas de aula, revolucionando a forma de transmitir e compartilhar conhecimento. 🌐🚀
+- Dependência excessiva da tecnologia  
+- Distrações causadas por notificações e dispositivos  
+- Possível queda no desempenho e desindividualização  
+
+---
+
+## 🔮 Conclusão
+
+Apesar dos desafios, a tecnologia é uma ferramenta essencial para a educação moderna, oferecendo acesso a uma verdadeira biblioteca na palma da mão dos alunos. Espera-se que seu uso continue crescendo, revolucionando a forma de ensino e aprendizado.
+
+---
+
+## 📑 Referências
+
+(Adicionar suas fontes aqui)
+
